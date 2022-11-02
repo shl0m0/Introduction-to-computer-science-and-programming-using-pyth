@@ -5,4 +5,7 @@ MIT's Introduction to Computer Science and Programming Using Python
 This repository contains:
 
 MITx 6.00.1x: Edx course version of 6.0001
-MIT OCW 6.0001: Lectures and problem sets uploaded in OpenCourseWare[6001x cert.pdf](https://github.com/shl0m0/Introduction-to-computer-science-and-programming-using-pyth/files/9922043/6001x.cert.pdf)
+MIT OCW 6.0001: Lectures and problem sets uploaded in OpenCourseWare
+
+![6001x cert-1](https://user-images.githubusercontent.com/46711599/199539465-607c7cc2-19ae-4baa-b505-5ff872a8f10f.jpg)
+
